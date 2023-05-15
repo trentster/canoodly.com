@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://canoodly.com/</loc>
+    <loc>https://trentster.github.io/canoodly.com/</loc>
     <lastmod>2023-05-15T17:08:18+10:00</lastmod>
   </url><url>
-    <loc>https://canoodly.com/posts/mypost/</loc>
+    <loc>https://trentster.github.io/canoodly.com/posts/mypost/</loc>
     <lastmod>2023-05-15T17:08:18+10:00</lastmod>
   </url><url>
-    <loc>https://canoodly.com/posts/</loc>
+    <loc>https://trentster.github.io/canoodly.com/posts/</loc>
     <lastmod>2023-05-15T17:08:18+10:00</lastmod>
   </url><url>
-    <loc>https://canoodly.com/categories/</loc>
+    <loc>https://trentster.github.io/canoodly.com/categories/</loc>
   </url><url>
-    <loc>https://canoodly.com/tags/</loc>
+    <loc>https://trentster.github.io/canoodly.com/tags/</loc>
   </url>
 </urlset>
